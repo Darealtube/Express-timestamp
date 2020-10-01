@@ -1,0 +1,39 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	color: #32E875;
+	background-color: #000;
+	text-align: center;
+  position: relative;
+  top: 2em;
+  background-image: url(https://cdn.glitch.com/9a6cf463-c663-46f5-805b-21b367054731%2Fbg.jpg?v=1601526906414);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.textarea{
+  width: 50vw;
+  height: 10vh;
+  font-size: 1.5em;
+  text-align: center;
+  background: #33312E;
+  color: #32E875;
+  outline: none;
+}
+
+.image{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.button{
+  background: #33312E;
+  color: #32E875;
+  font-size: 1em;
+  width: 30vw;
+  height: 10vh;
+  outline: none;
+}
